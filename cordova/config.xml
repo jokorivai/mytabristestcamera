@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="net.atm.mytabristestcamera" version="0.1.0">
+  <name>Mytabristestcamera</name>
+  <description>
+    Example Tabris.js App
+  </description>
+  <author email="jokorb@yahoo.co.uk">
+    Joko Rivai
+  </author>
+</widget>
